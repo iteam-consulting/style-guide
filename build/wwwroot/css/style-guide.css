@@ -1,0 +1,136 @@
+
+body {
+	font-family: 'Raleway', sans-serif;
+	padding-top: 50px;
+}
+
+.number-font {
+	font-family: 'Lato', ssans-serif;
+}
+
+.guide-section {
+	padding: 120px 0;
+}
+
+.guide-section + .guide-section {
+	box-shadow: 0 -5px 20px -5px #444;
+}
+
+.guide-section.typography {
+	background-color: #eee;
+}
+
+.guide-section.logo {
+	background-color: #ddd;
+}
+
+.footer-section {
+	padding: 120px 0;
+	background: rgb(21, 21, 21);
+}
+
+img.logo {
+	margin-top: 100px;
+	width: 60%;
+}
+
+.color-primary {
+	min-height: 250px;
+}
+
+.color-primary-bronze {
+	background: rgb(151, 69, 50);
+}
+
+.color-primary-green {
+	background: rgb(50, 151, 120);
+}
+
+.color-primary-blue {
+	background: rgb(50, 82, 151);
+}
+
+.color-secondary {
+	min-height: 120px;
+}
+
+.color-shade-bronze-1 {
+	background: rgb(136, 60, 43);
+}
+
+.color-shade-bronze-2 {
+	background: rgb(100, 43, 30);
+}
+
+.color-shade-bronze-3 {
+	background: rgb(68, 25, 15);
+}
+
+.color-shade-green-1 {
+	background: rgb(36, 123, 96);
+}
+
+.color-shade-green-2 {
+	background: rgb(28, 103, 80);
+}
+
+.color-shade-green-3 {
+	background: rgb(18, 79, 60);
+}
+
+.color-shade-blue-1 {
+	background: rgb(39, 68, 130);
+}
+
+.color-shade-blue-2 {
+	background: rgb(26, 52, 107);
+}
+
+.color-shade-blue-3 {
+	background: rgb(17, 38, 81);
+}
+
+.color-gray-light {
+	background: rgb(68, 68, 68);
+}
+
+.color-gray {
+	background: rgb(21, 21, 21);
+}
+
+.color-gray-dark {
+	background: rgb(2, 2, 2);
+}
+
+.color-section + .color-section {
+	margin-top: 25px;
+}
+
+.text-light {
+	font-weight: 200;
+}
+
+.text-normal {
+	font-weight: 400;
+}
+
+.text-heavy {
+	font-weight: 600;
+}
+
+.number-font .text-light {
+	font-weight: 300;
+}
+
+.number-font .text-normal {
+	font-weight: 400;
+}
+
+.number-font .text-heavy {
+	font-weight: 700;
+}
+
+h1 {
+	font-size: 5em;
+	font-weight: 200;
+}
